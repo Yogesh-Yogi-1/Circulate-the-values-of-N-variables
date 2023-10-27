@@ -30,4 +30,4 @@ def circulate():
 ![OUTPUT](<Screenshot 2023-10-27 201205.png>)
 
 ## RESULT:
-Thus circulating n variables are successfully executed
+Thus circulating n variables are successfully executed.
